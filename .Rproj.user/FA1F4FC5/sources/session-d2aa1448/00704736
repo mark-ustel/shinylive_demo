@@ -1,0 +1,26 @@
+{
+    "id": "00704736",
+    "path": "C:/Users/ustel/OneDrive/Desktop/rproject_demo/myapp/app.R",
+    "project_path": "myapp/app.R",
+    "type": "r_source",
+    "hash": "2325378418",
+    "contents": "",
+    "dirty": false,
+    "created": 1710760219380.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "0,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1710760240,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1710760240619,
+    "read_only": false,
+    "read_only_alternatives": []
+}

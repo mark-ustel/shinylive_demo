@@ -1,0 +1,15 @@
+install.packages("pak")
+library("pak")
+
+pak::pak("posit-dev/r-shinylive")
+library("shinylive")
+
+library("httpuv")
+
+packageVersion("shinylive")
+packageVersion("httpuv")
+
+shinylive::export("myapp", "docs")
+
+httpuv::runStaticServer("docs")
+httpuv::stopAllServers()
